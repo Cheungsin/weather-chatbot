@@ -133,12 +133,12 @@ def parseOneDayStr(oneDayData, style):
         #stri = oneDayData['date'] + ')天气:' + '\n' + oneDayData['low'] + ', ' + oneDayData['high'] + '\n' + oneDayData['type'] + '\n' + (oneDayData['fx'] if 'fx' in oneDayData else oneDayData['fengxiang']) + ', ' + re.search(r'(?<=CDATA\[).*(?=\]\])', (oneDayData['fl'] if 'fl' in oneDayData else oneDayData['fengli'])).group()
         stri = 'The weather condition of {} will be as follows: the highest temperature will be {}℃  and the lowest temperature will be {}℃ . And it will be "{}" at that time.'.format(oneDayData['date'], re.search(r'\d+', oneDayData['high']).group(), re.search(r'-?\d+', oneDayData['low']).group(), oneDayData['type'])
     elif style == 'onlyTemperature':
-        stri = 'For  {}, the highest temperature will be {}℃ and the lowest temperature will be {}℃.'.format(oneDayData['date'], oneDayData['high'], oneDayData['low'])
+        stri = 'For ' + '{}, the highest temperature will be {}℃ and the lowest temperature will be {}℃.'.format(oneDayData['date'], oneDayData['high'], oneDayData['low'])
     elif style == 'onlyClimate':
         # stri = oneDayData['date'] + ')气候:' + '\n' + oneDayData['type']
-        stri = 'For {}, The weather will be "{}" at that time.'.format(oneDayData['date'], oneDayData['type'])
+        stri = 'For ' + '{}, The weather will be "{}" at that time.'.format(oneDayData['date'], oneDayData['type'])
     elif style == 'onlyWind':
-        stri = 'For {}, The strength of wind will be "{}", and the direction will be "{}" at that time.'.format(oneDayData['date'], (oneDayData['fx'] if 'fx' in oneDayData else oneDayData['fengxiang']), re.search(r'(?<=CDATA\[).*(?=\]\])', (oneDayData['fl'] if 'fl' in oneDayData else oneDayData['fengli'])).group())
+        stri = 'For ' + '{}, The strength of wind will be "{}", and the direction will be "{}" at that time.'.format(oneDayData['date'], (oneDayData['fx'] if 'fx' in oneDayData else oneDayData['fengxiang']), re.search(r'(?<=CDATA\[).*(?=\]\])', (oneDayData['fl'] if 'fl' in oneDayData else oneDayData['fengli'])).group())
     print(stri)
     print('translate stri:')
     print(transToEn(stri))
@@ -199,8 +199,8 @@ def parseMsg(interpreter):
         returnStr = ['Hi~ I\'m your weather assistant!',
                      'Hello, you can ask everything about the weather to me',
                      'Nice to meet you, I\'m your weather assistant!'][random.randint(0, 2)] #1111 改过了
-    elif (interpreter['intent']['name'] == 'askWeather' or interpreter['intent']['name'] == 'giveTime'):
-    
+    #elif ((interpreter['intent']['name'] == 'askWeather' or interpreter['intent']['name'] == 'giveTime') and interpreter['intent']['confidence'] > 0.6):
+    elif (interpreter['intent']['confidence'] > 0.6):
         print(interpreter['entities'])
         
         for ent in interpreter['entities']:
