@@ -1,0 +1,38 @@
+{
+	'intent': {
+		'name': 'askWeather',
+		'confidence': 0.9988591247903451
+	},
+	'entities': [{
+		'start': 27,
+		'end': 35,
+		'value': 'shenzhen',
+		'entity': 'city',
+		'confidence': 0.9973445414808976,
+		'extractor': 'CRFEntityExtractor'
+	}, {
+		'start': 41,
+		'end': 42,
+		'value': '?',
+		'entity': 'city',
+		'confidence': 0.6232087923091154,
+		'extractor': 'CRFEntityExtractor'
+	}],
+	'intent_ranking': [{
+		'name': 'askWeather',
+		'confidence': 0.9988591247903451
+	}, {
+		'name': 'greet',
+		'confidence': 0.0009235777715449384
+	}, {
+		'name': 'bye',
+		'confidence': 0.00011801225976564498
+	}, {
+		'name': 'negative',
+		'confidence': 9.855893707871175e-05
+	}, {
+		'name': 'affirmative',
+		'confidence': 7.262412655369333e-07
+	}],
+	'text': "What's the weather like in Shenzhen today?"
+}

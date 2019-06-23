@@ -1,0 +1,1205 @@
+{
+	"rasa_nlu_data": {
+		"common_examples": [{
+			"text": "weather in the area of Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what is the weather like to be the day after tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what’s the weather going to be tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "What will the weather going to be four days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Will it be stormy yesterday in",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what’s the weather like to be tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what’s the weather like the day after tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what’s the weather going to be",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "What will the weather like yesterday thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Will it be thunderous tomorrow near Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what is the weather like yesterday thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it cold a week later in Guangzhou",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what is the weather going to be tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it cold Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "weather near Guangzhou",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "What will the weather going to be yesterday",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what’s the weather like to be tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello how is the weather like today thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what is the weather like to be the day after tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi how is the weather like to be yesterday thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what’s the weather going to be thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what’s the weather like to be a week later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi how is the weather like yesterday",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it rainy yesterday near Shenzhen",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather like to be the day after tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what’s the weather going to be three days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather like thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what is the weather going to be four days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather like to be three days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what is the weather going to be four days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather like to be tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what is the weather like to be a week later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey What will the weather going to be three days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it cold today",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "weather near Shenzhen",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather like to be today thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what’s the weather like a week later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what’s the weather like three days later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather like to be three days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what is the weather like the day after tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what’s the weather like today thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello What will the weather like to be today thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather going to be a week later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "weather in the area of Shenzhen",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather going to be a week later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello What will the weather like to be four days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "What will the weather like to be",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what is the weather like the day after tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "how is the weather like to be today thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be cloudy three days later in the area of Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather going to be tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi how is the weather like three days later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be cloudy the day after tomorrow Shenzhen",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what is the weather like to be four days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "What will the weather going to be a week later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it cold tomorrow near Beijing",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather like the day after tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "how is the weather like three days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what is the weather going to be tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what is the weather like three days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Will it be cloudy four days later in Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what is the weather going to be four days later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what’s the weather like to be tomorrow thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what is the weather like to be three days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello how is the weather going to be",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what’s the weather like today",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what is the weather like to be thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather going to be the day after tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather going to be three days later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be snowy tomorrow in the area of Guangzhou",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi how is the weather like to be today thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what is the weather going to be",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello What will the weather like four days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be cloudy today in",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be sunny three days later near Shenzhen",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi What will the weather like four days later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be wet tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what is the weather like today",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "how is the weather like thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey what’s the weather going to be a week later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what’s the weather going to be yesterday thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be thunderous today in Guangzhou",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi how is the weather like to be four days later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be cold Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi how is the weather like to be tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather like the day after tomorrow",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello what is the weather going to be thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it warm the day after tomorrow in the area of Guangzhou",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather going to be yesterday",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "What will the weather like to be a week later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hey how is the weather like to be the day after tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what’s the weather like tomorrow thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what’s the weather like to be a week later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it going to be thunderous a week later in the area of Guangzhou",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "Is it warm today in Shanghai",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "how is the weather like to be four days later thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "what’s the weather going to be four days later",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello What will the weather like today thank you",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what’s the weather like a week later thanks",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hi what’s the weather going to be",
+			"intent": "askWeather",
+			"entities": []
+		}, {
+			"text": "hello good afternoon how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi whats up",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good day are you there",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good night how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good afternoon are you around",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good day how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good morning how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good night are you around",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "greetings how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good morning how are you",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good day are you around?",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey morning sup",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "good afternoon are you there",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good day how are you doing",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello greetings whatsup",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good afternoon how are you doing",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi greetings",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good afternoon how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey greetings how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "good day how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good night sup",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi how are you doing",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "morning",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good day are you around?",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "good morning how are you doing",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey whats up",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good day are you there",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good morning how are you",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good morning whats up",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good night whats up",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good night how are you doing",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good afternoon are you around?",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi good afternoon how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good afternoon how are you",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "good night are you around?",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey morning how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good night how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi greetings how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hi greetings whatsup",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey are you there",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "good afternoon whats up",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello good day are you around",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "good morning how are you",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello greetings how are things going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello greetings how is it going",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hello greetings are you around",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "hey good morning",
+			"intent": "greet",
+			"entities": []
+		}, {
+			"text": "im leaving now ttyl",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you soon chao",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "heading out gtg",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "im leaving now farewell",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "adios thanks",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "leaving",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "heading out chau",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "thank you chau",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you soon gtg",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "chao thank you",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "thanks farewell",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "got to go farewell",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "adieu thank you",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "farewell",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "thank you chao",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you soon adios",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "bye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "going out",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "have to go ttyl",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "heading out adieu",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "chau thanks",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "im leaving now adieu",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "im leaving now bye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "adieu thanks",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you later goodbye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "heading out goodbye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you later ttyl",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "got to go adios",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "have to go adios",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "leaving gtg",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "leaving chao",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "farewell thanks",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "have to go chau",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you soon bye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "leaving chau",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "bye thanks",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "going out ttyl",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "thanks adios",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "heading out",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "leaving bye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "have to go gtg",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you soon farewell",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "im leaving now",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "goodbye thank you",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "thank you goodbye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "going out adios",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "thanks ttyl",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "talk to you soon chau",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "bye thank you",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "got to go bye",
+			"intent": "bye",
+			"entities": []
+		}, {
+			"text": "agreed",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good its fine yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "agreed good im ok with that",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir its fine yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good good affirmative",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir that is correct yes sir",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "right you understood me sounds good",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "im ok with that i want that sounds good",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes i want that yes",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir you understood me yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good good right",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good you understood me agreed",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir that is right sounds good",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "right",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good that is fine im ok with that",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes you understood me yes sir",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sounds good",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "im ok with that yes thanks",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "affirmative i want that agreed",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good right thank you",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes that is correct yes sir",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes i want that im ok with that",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir affirmative thanks",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes agreed thanks",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "right yep thanks",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes that is what i want right",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir that is what i want",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "right that is right",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes that is good correct",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good plz",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "sounds good that is good yes",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "correct i want that",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes you understood me im ok with that",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "agreed that is right yes sir",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "im ok with that that is right yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "correct that is right sounds good",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "affirmative right",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "that is fine affirmative",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "right right",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "that is good yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "that is correct correct",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yep good",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "correct correct thank you",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "right i want that yes sir",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "that is what i want yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "yes sir agreed thank you",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "agreed yep",
+			"intent": "affirmative",
+			"entities": []
+		}, {
+			"text": "nope plz dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "incorrect",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "its not ok",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "pls don't do that that's not what i want",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "no please that's wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "plz no that's not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "no plz dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "its not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "plz don't do that didnt meant that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please no it's not good",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "didnt meant that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "nope dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "don't do that plz it's not good",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "nope that's wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "incorrect its not ok",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "pls nope dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "no dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really plz that is wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "pls nope i don't want that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "pls not really dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "that's not right that's not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really its not ok",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "nope that's not what i want",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "don't do that plz i don't want that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really i don't want that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "that's not right pls that is wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "no i don't want that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "that's not right plz that's not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please incorrect that is wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "no please dont mean that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please don't do that its not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "no please its not ok",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "pls not really that's not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really please didnt meant that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please don't do that that is wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really its not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please not really that's wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "that's not right please didnt meant that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please no that is wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "incorrect pls its not ok",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really plz that's not what i want",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "nope i don't want that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "please not really",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "not really plz that's not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "plz no that is wrong",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "incorrect didnt meant that",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "that's not right please that's not correct",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "plz not really that's not what i want",
+			"intent": "negative",
+			"entities": []
+		}, {
+			"text": "pls nope didnt meant that",
+			"intent": "negative",
+			"entities": []
+		}]
+	}
+}
