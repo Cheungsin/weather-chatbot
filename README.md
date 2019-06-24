@@ -14,6 +14,8 @@ This chatbot can be deployed on wechat based on the wxpy project. You just need 
 
 ### Here are demos:
 
+![Demo1](https://github.com/Cheungsin/weather-chatbot/blob/master/Demo/Demo1.gif?raw=true)
 https://github.com/Cheungsin/weather-chatbot/blob/master/Demo/Demo1.mp4
 
+![Demo2](https://github.com/Cheungsin/weather-chatbot/blob/master/Demo/Demo2.gif?raw=true)
 https://github.com/Cheungsin/weather-chatbot/blob/master/Demo/Demo2.mp4
